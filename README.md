@@ -209,6 +209,5 @@ If you use this repository in your research, please cite:
 
 ---
 ## 9. Contact
-
 For questions, issues, or suggestions, feel free to open a GitHub issue or contact the authors.
 ---
