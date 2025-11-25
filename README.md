@@ -196,14 +196,7 @@ Tracked metrics:
 
 If you use this repository in your research, please cite:
 
-```bibtex
-@article{lee2024temperature,
-  title   = {Improving Local Training in Federated Learning via Temperature Scaling},
-  author  = {Lee, Kichang and Kim, Songkuk and Ko, JeongGil},
-  journal = {arXiv preprint arXiv:2401.09986},
-  year    = {2024}
-}
-```
+TBD
 
 ---
 ## 9. Contact
